@@ -1,0 +1,7 @@
+{
+  "id": "limeblacklist",
+  "name": "LimeBlacklist",
+  "version": "1.0",
+  "main": "me.neyevskiy.limeblacklist.LimeBlacklist",
+  "authors": ["neyevskiy"]
+}
